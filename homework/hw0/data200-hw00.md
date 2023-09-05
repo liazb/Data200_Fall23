@@ -32,8 +32,11 @@ Now, go ahead and write python code in the chunk below that prints your favorite
 
 
 ```python
-
+print("My favorite movie is Big Fish!")
 ```
+
+    My favorite movie is Big Fish!
+
 
 # Task 2
 
